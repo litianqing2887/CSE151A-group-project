@@ -25,3 +25,6 @@ There are 2111 instances with 16 features. There are no missing values.
 |CALC|Feature |Categorical   |How often do you drink alcohol?|
 |MTRANS|Feature |Categorical |Which transportation do you usually use?|
 |NObeyesdad|Target |Categorical|Obesity level|
+## Preprocessing Method
+First, we checked the statistical values, including mean and std. Besides, we encoded non-numerical features into numerical values. Finally, we normalized and standardized the data and drew some graphs to see the correlations between features.  
+[Jupyter Notebook](https://colab.research.google.com/drive/1bwOXfLWkiFjfF43SzX0UnQkWO8P_tlpO?usp=sharing)
