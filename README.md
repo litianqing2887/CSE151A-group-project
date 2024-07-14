@@ -29,5 +29,5 @@ There are 2111 instances with 16 features. There are no missing values.
 ## Preprocessing Methods
 First, we checked the statistical values, including mean and std.  
 Then, we encoded non-numerical features into numerical values.  
-Finally, we normalized and standardized the data and drew some graphs to see the correlations between features.  
+Finally, we picked up some features to draw some graphs to see the correlations between features.  
 [Milestone 2 Jupyter Notebook](Group_Project_MileStone_2.ipynb)
