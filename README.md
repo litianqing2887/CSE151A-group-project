@@ -69,3 +69,12 @@ Reflecting on our project, we made strides in understanding and predicting obesi
 In hindsight, there are a few things we can be improved on. Firstly, incorporating a wider variety of model might be provided a more robust understanding of the data. These models often balance bias and variance better than single models. Additionally, exploring deep learning techniques could have uncovered more intricate patterns and interactions within our dataset. Enhancing our feature engineering process, possibly by including more domain-specific knowledge, might have also improved model performance.  
 
 Looking ahead, future directions could include developing a more integrated approach that combines multiple models to leverage their strengths. For instance, exploring advanced preprocessing techniques and dimensionality reduction methods, such as PCA, might refine our feature set. 
+
+## Collaboration
+Frank Li: discussing high level ideas, data preprocessing, complementing the written report, organizing the github repository. 
+
+Po-cheng Lai: discussing high level ideas, data preprocessing, complementing the written report. 
+
+Yixuan Li: discussing high level ideas, data preprocessing, training the first model, complementing the written report. 
+
+Zhaogu Sun: discussing high level ideas, data preprocessing, training the second model, complementing the written report. 
